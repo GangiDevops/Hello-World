@@ -5,9 +5,7 @@
 <h1> Now devops job market is good.. all the best </h1>
 
 <h1> This is our last session.................... </h1>
-
-<h1> All the best.................... </h1>
-
+<h1> gitbasg... </h1>
 
 
 <h1> All the best.................... </h1>
